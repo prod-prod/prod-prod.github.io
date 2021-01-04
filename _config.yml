@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "C++, autonomous driving, robotics"
   location         : "Berlin, Germany"
-  employer         :
+  employer         : "MBition GmbH"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
