@@ -16,7 +16,7 @@ It is my personal blog where I write about C++ and related topics.
 
 Briefly about me:
 
-I am pationate C++ developer. Love writing, robots and believe that ML. Used to work in different areas of the development, starting from business analitics and ending with programming autonomous vehicles.
+I am a pationate C++ developer. Love writing, robots and believe that ML will change the way we interact with computers. Used to work in different areas of the development, starting from business analitics and ending with programming autonomous vehicles.
 
 Hope you enjoy the blog!
 
