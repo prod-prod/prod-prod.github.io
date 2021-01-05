@@ -1,14 +1,14 @@
 ---
+layout: archive
 permalink: /
-title: "Simply about C++"
-excerpt: "Blog"
+title: "Blog"
 author_profile: true
-redirect_from: 
+redirect_from:
+  - /blog/
   - /about/
   - /about.html
 ---
 
-T
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
