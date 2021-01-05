@@ -52,9 +52,9 @@ Work experience
 Skills
 ======
 * Software development
-  * C++, Python, ROS, SQL, Algorithms
+  * C++, Python, SQL, Algorithms
 * Tooling
-  * Keras, PyTorch, RViz, Gazebo, OpenCV, Linux 
+  * Keras, PyTorch, RViz, Gazebo, OpenCV, Linux, ROS
 * Communication protocols
   * UDP/TCP, Some/IP
 
