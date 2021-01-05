@@ -55,7 +55,8 @@ Skills
   * C++, Python, ROS, SQL, Algorithms
 * Tooling
   * Keras, PyTorch, RViz, Gazebo, OpenCV, Linux 
-
+* Communication protocols
+  * UDP/TCP, Some/IP
 
 Something I am proud of
 ======
