@@ -25,7 +25,7 @@ Work experience
 ======
 * January 2018 - June 2020: Software Engineer, TomTom, Berlin, Germany
 
-As part of the SCRUM team I was responsible for the implementation and support of the guidance engine for the TomTom navigation.
+  As part of the SCRUM team I was responsible for the implementation and support of the guidance engine for the TomTom navigation.
 
   * Working on the new version of the backend engine
   * Improving the performance, end-to-end development
