@@ -23,18 +23,26 @@ Financial analysis, econometrics and business analysis. My thesis was in modelli
 
 Work experience
 ======
+* July 2020 - now: Software Engineer, MBition GmbH, Berlin Germany
+  
+  In ADAS department we work on enabling autonomous driving for Mercedes-Benz cars.
+
+  * Prototype and verify verity of technologies from ADAS domain
+  * Design the vehicle abstraction level to communicate with sensors
+  * Integrate 3rd party solutions
+
 * January 2018 - June 2020: Software Engineer, TomTom, Berlin, Germany
 
   As part of the SCRUM team I was responsible for the implementation and support of the guidance engine for the TomTom navigation.
 
-  * Working on the new version of the backend engine
+  * Working on the new version of the backend engine for guidance
   * Improving the performance, end-to-end development
   * Build and improve complex algorithms for guidance engine, bug fixing
   * Write unit, integration and smoke tests
 
 * July 2015 - December 2017: Datawarehouse engineer, Delivery Herp, Berlin, Germany
 
-I was the member of the Data team, where I was responsible for integrating, verification and availability of the company data.
+  I was the member of the Data team, where I was responsible for integrating, verification and availability of the company data.
 
   * Design and implement database architecture for analytics
   * Integrate 3rd party services into the existing architecture 
