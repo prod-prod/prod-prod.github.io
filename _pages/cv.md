@@ -42,7 +42,7 @@ Work experience
 
 * **July 2015 - December 2017: Datawarehouse engineer, Delivery Hero, Berlin, Germany**
 
-  I was the member of the Data team, where I was responsible for integrating, verification and availability of the company data.
+  I was a member of the Data team, where I was responsible for integrating, verification and availability of the company data.
 
   * Design and implement database architecture for analytics
   * Integrate 3rd party services into the existing architecture 
