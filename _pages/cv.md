@@ -12,18 +12,18 @@ redirect_from:
 
 Education
 ======
-* M.S. in Business administration, University of Saarland, Saarland, Germany, 2016
+* **M.S. in Business administration, University of Saarland, Saarland, Germany, 2016**
 
 Statistics and IT. Thesis in ML (Forecasting the employee turnover with ML). Seminar in the area of algorithmic trading where I implemented trading algorithms and measured the performance on the intra-day data. I was part of the University team for the international algorithmic trading competition.
 
-* B.S. in Business admnistration, National Transport University, Kyiv, Ukraine, 2009
+* **B.S. in Business admnistration, National Transport University, Kyiv, Ukraine, 2009**
 
 Financial analysis, econometrics and business analysis. My thesis was in modelling the financial results based on different risks and outcomes for the mid-size company.
 
 
 Work experience
 ======
-* July 2020 - now: Software Engineer, MBition GmbH, Berlin Germany
+* **July 2020 - now: Software Engineer, MBition GmbH, Berlin Germany**
   
   In ADAS department we work on enabling autonomous driving for Mercedes-Benz cars.
 
@@ -31,7 +31,7 @@ Work experience
   * Design the vehicle abstraction level to communicate with sensors
   * Integrate 3rd party solutions
 
-* January 2018 - June 2020: Software Engineer, TomTom, Berlin, Germany
+* **January 2018 - June 2020: Software Engineer, TomTom, Berlin, Germany**
 
   As part of the SCRUM team I was responsible for the implementation and support of the guidance engine for the TomTom navigation.
 
@@ -40,7 +40,7 @@ Work experience
   * Build and improve complex algorithms for guidance engine, bug fixing
   * Write unit, integration and smoke tests
 
-* July 2015 - December 2017: Datawarehouse engineer, Delivery Herp, Berlin, Germany
+* **July 2015 - December 2017: Datawarehouse engineer, Delivery Herp, Berlin, Germany**
 
   I was the member of the Data team, where I was responsible for integrating, verification and availability of the company data.
 
