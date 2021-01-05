@@ -1,12 +1,10 @@
 ---
 layout: archive
-permalink: /
-title: "Blog"
+permalink: /year-archive/
+title: "Blog posts"
 author_profile: true
 redirect_from:
-  - /blog/
-  - /about/
-  - /about.html
+  - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
