@@ -40,7 +40,7 @@ Work experience
   * Build and improve complex algorithms for guidance engine, bug fixing
   * Write unit, integration and smoke tests
 
-* **July 2015 - December 2017: Datawarehouse engineer, Delivery Herp, Berlin, Germany**
+* **July 2015 - December 2017: Datawarehouse engineer, Delivery Hero, Berlin, Germany**
 
   I was the member of the Data team, where I was responsible for integrating, verification and availability of the company data.
 
