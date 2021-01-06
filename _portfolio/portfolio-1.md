@@ -1,6 +1,6 @@
 ---
 title: "Robot localization in ROS"
-excerpt: "Detect the location of the robot with Kalman Filter and ROS<br/><img src='/images/500x300.png'>"
+excerpt: "Detect the location of the robot with Kalman Filter and ROS<br/><img src='/images/projects/RobotLocalization.png'>"
 collection: portfolio
 ---
 
