@@ -8,6 +8,8 @@ collection: portfolio
 
 [Monte Carlo Localization for Mobile Robots](https://www.ri.cmu.edu/pub_files/pub1/dellaert_frank_1999_2/dellaert_frank_1999_2.pdf)
 
+Important: the project does not implement the paper, but uses the paper to answer some questions. Paper is just as a reference for better understanding.
+
 
 ### About
 
@@ -21,7 +23,7 @@ About Monte Carlo localization from [Wikipedia](https://en.wikipedia.org/wiki/Mo
 
 ### Implementation
 
-For the implementation we will use `amcl` ROS node, available as part of the navigation ROS stock. 
+For the implementation we will use `amcl` ROS node, available as part of the navigation ROS stack. 
 
 If you want to know more about the ROS node, visit the [official ROS node page](http://wiki.ros.org/amcl).
 

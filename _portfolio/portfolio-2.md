@@ -8,6 +8,7 @@ collection: portfolio
 
 [Facial Key Points Detection using Deep Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
+Important: the project does not implement the paper, but uses the paper to answer some questions. Paper is just as a reference for better understanding.
 
 ### About
 
