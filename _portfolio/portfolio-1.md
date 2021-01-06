@@ -4,6 +4,10 @@ excerpt: "Detect the location of the robot with particle filter and ROS<br/><img
 collection: portfolio
 ---
 
+### Paper
+
+[Monte Carlo Localization for Mobile Robots](https://www.ri.cmu.edu/pub_files/pub1/dellaert_frank_1999_2/dellaert_frank_1999_2.pdf)
+
 
 ### About algorithm
 
