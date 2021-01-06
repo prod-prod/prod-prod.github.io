@@ -9,7 +9,9 @@ collection: portfolio
 [Facial Key Points Detection using Deep Convolutional Neural Network - NaimishNet](https://arxiv.org/pdf/1710.00977.pdf)
 
 
-### About CNN
+### About
+
+Convolutional network networks is a very powerful tool. We use CNN to detect lips, eyes, nose in form of the points on the image.
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
