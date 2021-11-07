@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simply about C++"
+title                    : "DE stories"
 title_separator          : "-"
-name                     : &name "Kurbakov Dmytro"
+name                     : &name "Nastassia Ivanova"
 description              : &description "personal description"
-url                      : https://kurbakov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://prod-prod.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kurbakov/kurbakov.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kurbakov Dmytro"
+  name             : "Nastassia Ivanova"
   avatar           : "profile.png"
-  bio              : "C++, autonomous driving, robotics"
+  bio              : "SOL, Python, DBMS"
   location         : "Berlin, Germany"
-  employer         : "MBition GmbH"
+  employer         : "Sberbank"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : 
