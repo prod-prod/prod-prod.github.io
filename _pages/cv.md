@@ -37,10 +37,12 @@ Work experience
 Core competencies
 ======
 
-* -----|-----
-* *Skills | Python,  SQL, Algorithms,  Data Warehouse, Database Modeling, Statistics, Software Engineering.
-* Technologies | Pandas, numpy, PostgreSQL, MySQL, Qlik Sense, Oracle Data Modeler, Git, Linux.
-* Communication | Cross-cultural communication experience while studying at the university. Fluent in Russian; proficient in English, German elementary. 
-* Analysis | Reliable, and diligent, committed to rational and optimal data decisions. 
-* Social activity | Organizing meetings and planning leisure activities for colleagues to maintain a team spirit and maintain a friendly atmosphere in the team. 
+|  |  |
+| ------ | ------ |
+| Skills | Python,  SQL, Algorithms,  Data Warehouse, Database Modeling, Statistics, Software Engineering.|
+| Technologies | Pandas, numpy, PostgreSQL, MySQL, Qlik Sense, Oracle Data Modeler, Git, Linux.|
+| Communication | Cross-cultural communication experience while studying at the university. Fluent in Russian; proficient in English, German elementary.|
+| Analysis | Reliable, and diligent, committed to rational and optimal data decisions. |
+| Social activity | Organizing meetings and planning leisure activities for colleagues to maintain a team spirit and maintain a friendly atmosphere in the team. |
 
+Aspect, Description
