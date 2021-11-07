@@ -36,6 +36,7 @@ Work experience
 
 Core competencies
 ======
+|col1|col2|
 | :------------|---------------------------------------------------------------------------------------------------------------:|
 | Skills | Python,  SQL, Algorithms,  Data Warehouse, Database Modeling, Statistics, Software Engineering.|
 | Technologies | Pandas, numpy, PostgreSQL, MySQL, Qlik Sense, Oracle Data Modeler, Git, Linux.|
