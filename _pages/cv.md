@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 
-Education
+# Education
 ======
 * **B.S. in Engineering on the Railway, Belarusian State University of Transport, Gomel, Belarus, 2019**
 
 
-Work experience
+# Work experience
 ======
 * **Mar 2021 – Present: Data Engineer at Sberbank, Minsk, Belarus**
 
@@ -33,7 +33,7 @@ Work experience
 
 
 
-Core competencies
+# Core competencies
 ======
 
 | Aspect | Feature |
