@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DE stories"
+title                    : "Data Engineering stories"
 title_separator          : "-"
 name                     : &name "Nastassia Ivanova"
 description              : &description "personal description"
