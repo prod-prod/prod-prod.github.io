@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-Welcome on my personal blog about Data Engineering tools and tricks.
-Nice to see you here!
+Welcome to my personal blog on Data Engineering Tools and Tricks. Nice to see you here! 
 
 About me:
 
