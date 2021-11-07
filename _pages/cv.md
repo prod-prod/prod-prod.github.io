@@ -13,7 +13,6 @@ redirect_from:
 Education
 ======
 * **B.S. in Engineering on the Railway, Belarusian State University of Transport, Gomel, Belarus, 2019**
-SMTH about diploma project.
 
 
 Work experience
