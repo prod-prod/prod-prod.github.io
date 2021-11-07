@@ -12,54 +12,38 @@ redirect_from:
 
 Education
 ======
-* **M.S. in Business administration, University of Saarland, Saarland, Germany, 2016**
-
-Statistics and IT. Thesis in ML (Forecasting the employee turnover with ML). Seminar in the area of algorithmic trading where I implemented trading algorithms and measured the performance on the intra-day data. I was part of the University team for the international algorithmic trading competition.
-
-* **B.S. in Business admnistration, National Transport University, Kyiv, Ukraine, 2009**
-
-Financial analysis, econometrics and business analysis. My thesis was in modelling the financial results based on different risks and outcomes for the mid-size company.
+* **B.S. in Engineering on the Railway, Belarusian State University of Transport, Gomel, Belarus, 2019**
+SMTH about diploma project.
 
 
 Work experience
 ======
-* **July 2020 - now: Software Engineer, MBition GmbH, Berlin Germany**
-  
-  In ADAS department we work on enabling autonomous driving for Mercedes-Benz cars.
+* **Data Engineer | Sberbank, Minsk, Belarus | Mar 2021 – Present, 7 mos**
 
-  * Prototype and verify verity of technologies from ADAS domain
-  * Design the vehicle abstraction level to communicate with sensors
-  * Integrate 3rd party solutions
+* development of automated and aggregated reports, dashboards and both specialized and ad hoc analyses.
+* build transformation scripts using SQL and Python (pandas, numpy).
+* connect to various communities and people involved in the end-to-end process (business, Data Analysts, Data Scientists) and actively share learnings and best practices with each other.
+* translate complex data and analytics into a human readable visual format for rapid business decision making.
 
-* **January 2018 - June 2020: Software Engineer, TomTom, Berlin, Germany**
+* **Civil and Design Engineer | TransSoyuzProject, Minsk, Belarus | Jul 2019 – Feb 2021, 1 yr 8 mos**
 
-  As part of the SCRUM team I was responsible for the implementation and support of the guidance engine for the TomTom navigation.
+ * сollaborating with customers/stakeholders to define and document  modeling requirements.
+ * deciding on the most appropriate engineering techniques and sequences of activities for each project stage.
+ * conduct research and preparation of reports, and present findings and results to clients.
+ * drawing plans; using specialized design software packages like AutoCAD Civil 3D, etc.
 
-  * Working on the new version of the backend engine for guidance
-  * Improving the performance, end-to-end development
-  * Build and improve complex algorithms for guidance engine, bug fixing
-  * Write unit, integration and smoke tests
 
-* **July 2015 - December 2017: Datawarehouse engineer, Delivery Hero, Berlin, Germany**
 
-  I was a member of the Data team, where I was responsible for integrating, verification and availability of the company data.
-
-  * Design and implement database architecture for analytics
-  * Integrate 3rd party services into the existing architecture 
-  * Optimize the speed of the SQL requests
-
-  
-Skills
+Core competencies
 ======
-* Software development
-  * C++, Python, SQL, Algorithms
-* Tooling
-  * Keras, PyTorch, RViz, Gazebo, OpenCV, Linux, ROS
-* Communication protocols
-  * UDP/TCP, Some/IP
+* Skills. 
+  * Python,  SQL, Algorithms,  Data Warehouse, Database Modeling, Statistics, Software Engineering.
+* Technologies. 
+  * Pandas, numpy, PostgreSQL, MySQL, Qlik Sense, Oracle Data Modeler, Git, Linux.
+* Communication. 
+  * Cross-cultural communication experience while studying at the university. Fluent in Russian; proficient in English, German elementary. 
+* Analysis. 
+  * Reliable, and diligent, committed to rational and optimal data decisions. 
+* Social activity. 
+  * Organizing meetings and planning leisure activities for colleagues to maintain a team spirit and maintain a friendly atmosphere in the team. 
 
-Something I am proud of
-======
-* Speak 4 languages: English, German, Ukrainian, Russian
-* Reached finals at global TomTom hackathon
-* Won competition in autonomous driving

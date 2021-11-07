@@ -9,18 +9,17 @@ redirect_from:
 ---
 
 
+Welcome on my personal blog about Data Engineering tools and tricks.
 Nice to see you here!
 
-It is my personal blog where I write about C++ and related topics.
+About me:
 
+Data Engineering field is my passion and I am so proud to have an opportunity to be in such high - valuable and challenging sphere. I love data, how it flows, moves, and how it transforms into decisions, strategies, or the basis for predictions. We all addicted to the data and its derivatives, so there is no better time than now to learn something new about data and how to handle it!
 
-Briefly about me:
-
-I am a pationate C++ developer. Love writing, robots and believe that ML will change the way we interact with computers. Used to work in different areas of the development, starting from business analitics and ending with programming autonomous vehicles.
-
-Hope you enjoy the blog!
+Hope you'll enjoy the blog!
 
 What to know more about me? Just contact me in LinkedIn!
 
+
 Regards,  
-Dmytro
+Nastassia
