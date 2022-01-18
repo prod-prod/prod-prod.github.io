@@ -1,3 +1,10 @@
+---
+title: 'Tasks to delete'
+date: 2022-01-13
+permalink: /posts/2021/12/task-delete-after-comm/
+tags:
+  - delete
+---
 ----------------------------------------------
 Модель по продукту	Статус	Перечень работ 	Дата выполнения	Ответственный	Приоритет (1 = наивысший)	
 Депозит	-	 	 	 							1	 		http://GIT-prod.belpsb.by/ml_retail/retail_deposit.git
