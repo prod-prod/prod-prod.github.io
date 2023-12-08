@@ -10,12 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
+As a data enthusiast with a keen interest in the intersection of finance and technology, I possess a skill set perfectly suited for the role of a data engineer/data analyst in fintech or related field. I have a solid
+foundation in statistical analysis, data visualization, and data modeling, I am adept at extracting meaningful insights from complex datasets and translating them into actionable recommendations. My experience in
+designing and implementing robust data pipelines, combined with my ability to optimize system performance and scalability, enables me to deliver impactful solutions that drive business growth. Leveraging my strong analytical thinking and problem-solving abilities, I continuously strive to bridge the gap between data and decision-making, creating notable value for company.
 
 
 # Core competencies
 
 
-|  |  |
+| Aspect | Feature |
 | ------ | ------ |
 | <b>Skills | Python, SQL, Data Warehouse, Database Modeling, Algorithms, Software Engineering.|
 | <b>Technologies | Pandas, numpy, Docker, PostgreSQL, Teradata, Qlik Sense, Git, VS Code, Postman, Airflow, NiFi, Hadoop, bash.|
@@ -73,7 +76,7 @@ redirect_from:
 ---
 # Post - University learning
 
-| <span> |  |
+| Course | Duration |
 | ------ | ------ |
 | <b>Python. Advanced course</b> (Sber University) | Aug 2023 &ndash; Sep 2023 |
 | <b>Python for the data analysis</b> (Sber University) | Apr 2023 &ndash; Aug 2023 |
