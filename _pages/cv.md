@@ -73,9 +73,16 @@ redirect_from:
 ---
 # Post - University learning
 
-|  |  |
+| <span> |  |
 | ------ | ------ |
 | <b>Python. Advanced course</b> (Sber University) | Aug 2023 &ndash; Sep 2023 |
 | <b>Python for the data analysis</b> (Sber University) | Apr 2023 &ndash; Aug 2023 |
 | <b>EPAM data engineering training</b> (EPAM training center): <br> Window Functions (framing), Python (argparse, regex, Templates, data export, <br>databases, jupyter notebook, data analysis) | Jun 2020 &ndash; Nov 2020 |
 | <b>Programming for data science with Python</b> (Udacity nanodegree) | Mar 2020 &ndash; May 2020 |
+
+
+
+
+
+
+
